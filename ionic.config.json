@@ -1,0 +1,8 @@
+{
+  "name": "agentcy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d67199c9"
+}
